@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Robo_Simulation", "Robo_Simulation\Robo_Simulation.csproj", "{BA089A71-2C0C-4760-ABC9-E869D6B6EEFA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Robo_SimTest", "..\Robo_SimTest\Robo_SimTest\Robo_SimTest.csproj", "{337B199E-D618-4D76-B9BB-14A52C001E9F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|anycpu = Debug|anycpu
+		Release|anycpu = Release|anycpu
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BA089A71-2C0C-4760-ABC9-E869D6B6EEFA}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{BA089A71-2C0C-4760-ABC9-E869D6B6EEFA}.Debug|anycpu.Build.0 = Debug|anycpu
+		{BA089A71-2C0C-4760-ABC9-E869D6B6EEFA}.Release|anycpu.ActiveCfg = Release|anycpu
+		{BA089A71-2C0C-4760-ABC9-E869D6B6EEFA}.Release|anycpu.Build.0 = Release|anycpu
+		{337B199E-D618-4D76-B9BB-14A52C001E9F}.Debug|anycpu.ActiveCfg = Debug|Any CPU
+		{337B199E-D618-4D76-B9BB-14A52C001E9F}.Debug|anycpu.Build.0 = Debug|Any CPU
+		{337B199E-D618-4D76-B9BB-14A52C001E9F}.Release|anycpu.ActiveCfg = Release|Any CPU
+		{337B199E-D618-4D76-B9BB-14A52C001E9F}.Release|anycpu.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
